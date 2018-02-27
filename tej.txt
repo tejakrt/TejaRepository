@@ -1,7 +1,4 @@
-hi
-Sunday
-Here
-How 
-Are 
-You
+dog 
+cat 
+octopus
 
