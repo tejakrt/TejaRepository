@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 changed from hello to hi
+=======
+changed
+>>>>>>> 53afa5c668a8efd131a8f1fcf2ae450619c2806a
 Hi 
 this 
 is teja
