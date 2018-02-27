@@ -1,3 +1,7 @@
 teja
 cloud
+<<<<<<< HEAD
 DevOps
+=======
+services
+>>>>>>> octopule
